@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "React Native example app",
+    "slug": "react-native-example-sergio",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon3.png",
+    "splash": {
+      "image": "./assets/splash3.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "description": "This project consists in the development of a React Native App that displays dynamic rows dataset of repositories fetched from the GitHub public API which can be useful to find the updated overview of a repository easily.",
+    "githubUrl": "https://github.com/SergioEnrique/react-native"
+  }
+}
